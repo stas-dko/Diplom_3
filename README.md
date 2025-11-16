@@ -19,4 +19,4 @@ pytest tests --alluredir=allure_results
 * Посмотреть отчет в веб версии пройденного прогона
 ``` shell
 allure serve allure_results
-```
+```# Diplom_2
